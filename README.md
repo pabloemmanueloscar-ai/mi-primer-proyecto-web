@@ -24,3 +24,5 @@ La aplicación ayuda a reducir el tiempo dedicado a la organización de turnos y
 ## Público objetivo
 
 La aplicación está dirigida a profesionales de cualquier rubro que necesiten organizar su agenda, administrar turnos y optimizar la atención de sus clientes mediante herramientas de automatización.
+
+Autor Pa₿lo Emmanuel Martin creador de DevpyX Dashboard 
