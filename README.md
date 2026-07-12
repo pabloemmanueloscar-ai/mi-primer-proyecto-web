@@ -1,5 +1,5 @@
 # Descripción
-
+mi nombre del proyecto es DevpyX dashboard
 Esta aplicación tiene como objetivo simplificar la gestión de agendas y turnos mediante un agente de voz y un chatbot avanzado, permitiendo crear y programar citas de forma más rápida y automatizada.
 
 El proyecto comenzó como una página web y evoluciona hacia una plataforma de agenda programable orientada a profesionales de cualquier rubro.
