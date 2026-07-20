@@ -1,7 +1,7 @@
 
 📊 Descripción
 DevpyX Dashboard:
- es una aplicacióndiseñada para simplificar la gestión de agendas y turnos mediante un 🤖 agente de voz y un 💬 chatbot avanzado, permitiendo crear, organizar y programar citas de forma rápida, inteligente y automatizada.
+es una aplicacióndiseñada para simplificar la gestión de agendas y turnos mediante un 🤖 agente de voz y un 💬 chatbot avanzado, permitiendo crear, organizar y programar citas de forma rápida, inteligente y automatizada.
 El proyecto comenzó como una 🌐 página web y evoluciona hacia una plataforma de agenda programable orientada a 👨‍⚕️👩‍💼 profesionales de cualquier rubro.
 
 ❔🔎 ¿Qué resuelve?
