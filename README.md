@@ -7,6 +7,7 @@ DevpyX Dashboard es una aplicación diseñada para simplificar la gestión de ag
 El proyecto comenzó como una 🌐 página web y evoluciona hacia una plataforma de agenda programable orientada a profesionales de cualquier rubro.
 
 ❓ ¿Qué resuelve?
+
 La aplicación reduce el tiempo dedicado a la organización de turnos y citas, centralizando toda la gestión en una única plataforma con herramientas inteligentes que optimizan el trabajo diario.
 ✨ Características
 📅 Creación y programación de citas.
