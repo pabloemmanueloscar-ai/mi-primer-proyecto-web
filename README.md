@@ -1,7 +1,7 @@
 
 📊 Descripción:
 
-el nombre del proyecto es DevpyX Dashboard. 
+El nombre del proyecto es DevpyX Dashboard. 
 
 Es una aplicación diseñada para simplificar la gestión de agendas y turnos mediante un 🤖 agente de voz y un 💬 chatbot avanzado, permitiendo crear, organizar y programar citas de forma rápida, inteligente y automatizada.
 El proyecto comenzó como una 🌐 página web y evoluciona hacia una plataforma de agenda programable orientada a 👨‍⚕️👩‍💼 profesionales de cualquier rubro.
